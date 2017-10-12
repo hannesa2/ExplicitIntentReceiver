@@ -1,0 +1,2 @@
+include ':receiverApp'
+include ':senderApp'
